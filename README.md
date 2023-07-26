@@ -3,6 +3,7 @@
 <br></br>
 
 # 💫 About Me:
+🧑‍💻My name is Mohammed Hassan<br>
 🔭 I’m currently working on java<br>🌱 I’m currently learning angular<br>💬 Ask me about core java , advance java , spring boot<br>⚡ Fun fact i am good in chatgpt
 
 
