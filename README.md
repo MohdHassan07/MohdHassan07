@@ -1,4 +1,6 @@
-
+<h2 align="center"></h2>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<br></br>
 <h1 align="center">Hi 👋, I'm Mohammed Hassan</h1>
 <h3 align="center">Java Developer</h3>
 
