@@ -1,34 +1,31 @@
 <h2 align="center"></h2>
 <img src="img.gif"/>
 <br></br>
-<h1 align="center">Hi 👋, I'm Mohammed Hassan</h1>
-<h3 align="center">Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdhassan07&label=Profile%20views&color=0e75b6&style=flat" alt="mohdhassan07" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on java<br>🌱 I’m currently learning angular<br>💬 Ask me about core java , advance java , spring boot<br>⚡ Fun fact i am good in chatgpt
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdhassan07" alt="mohdhassan07" /></a> </p>
 
-- 🔭 Fresher **Matrimonial Management System**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-hassan-1b7b8125b) 
 
-- 🌱 I’m currently learning **Spring, Spring boot, Spring security, Microservice**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohdHassan07&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohdHassan07&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdHassan07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **Advance Java, Core Java, Spring MVC, Spring Boot, REST API, Hibernate, HTML, CSS and MySQL**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MohdHassan07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohammed-hassan-1b7b8125b**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bZpnggnn-mptEXbHLZd8aI_vMxyYzDaG/view?usp=sharing](https://drive.google.com/file/d/1bZpnggnn-mptEXbHLZd8aI_vMxyYzDaG/view?usp=sharing)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MohdHassan07&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-hassan-1b7b8125b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-hassan-1b7b8125b" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=MohdHassan07&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdhassan07&show_icons=true&locale=en&layout=compact" alt="mohdhassan07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdhassan07&show_icons=true&locale=en" alt="mohdhassan07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdhassan07&" alt="mohdhassan07" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
